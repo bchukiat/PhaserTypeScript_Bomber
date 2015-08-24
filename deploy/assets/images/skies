@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eb460d42babf8940a477f6627339d367:bdf8de2984df2928c70b336e4fb672f1:9ec02b2199116e9b9f71d5f1032548fd$ -->
+<TextureAtlas imagePath="skies.png">
+    <SubTexture name="sky0" x="2" y="2" width="512" height="384"/>
+    <SubTexture name="sky1" x="516" y="2" width="512" height="384"/>
+    <SubTexture name="sky2" x="1030" y="2" width="512" height="384"/>
+    <SubTexture name="sky3" x="2" y="2" width="512" height="384"/>
+</TextureAtlas>

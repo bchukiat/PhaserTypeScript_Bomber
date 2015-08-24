@@ -1,0 +1,27 @@
+{
+    "name": "rox",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "out": "./src/game/app.js"
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./src/game/app.ts",
+        "./src/groups/city.ts",
+        "./src/states/boot.ts",
+        "./src/states/game.ts",
+        "./src/states/mainmenu.ts",
+        "./src/states/preloader.ts",
+        "./src/typing/p2.d.ts",
+        "./src/typing/phaser.d.ts",
+        "./src/typing/pixi.d.ts"
+    ]
+}
