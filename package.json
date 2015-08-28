@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "",
-  "author": "bchukiat",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
       "grunt-open": "~0.2.3",
       "grunt": "~0.4.2",
