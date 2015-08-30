@@ -1,4 +1,6 @@
-Create bomber game on Phaser library using TypeScript and created on Atom editor with Atom-TypeScript package.
+
+Create bomber game on Phaser library using TypeScript on Atom editor with Atom-TypeScript package.
+
 The code, has been created based-on Phaser example, purposing to learn Phaser and TypeScript
 
 1) Open terminal and navigate to "PhaserTypeScript_Bomber" directory
